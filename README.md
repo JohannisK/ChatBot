@@ -5,7 +5,7 @@ Powered by <img src="http://botmasterai.com/images/botmaster_light.svg" width="1
 
 Botmaster framework with IBM Watson Conversation dependencies to deploy Facebook messenger bot. Botmaster is a lightweight highly extendable, highly configurable chatbot framework. It was meant to be used both in small scale and large scale projects. Its purpose is to integrate your chatbot into a variety of messaging channels.
 <div align="center">
-<a href="https://bluemix.net/deploy?repository=https://github.com/eciggaar/botmaster-watsonconversation.git" # [required]><img src="https://bluemix.net/deploy/button.png" alt="Deploy to Bluemix"></a></div>
+<a href="https://bluemix.net/deploy?repository=https://github.com/JohannisK/ChatBot.git" # [required]><img src="https://bluemix.net/deploy/button.png" alt="Deploy to Bluemix"></a></div>
 
 # Before you begin
 
@@ -53,7 +53,7 @@ If you wish to simply deploy a Botmaster instance without having to edit any of 
 
 1. In order to setup botmatser and a webhook for messenger to link to your Watson conversation we first need to deploy a Bluemix application. So go ahead and hit the button.
 <div align="center">
-<a href="https://bluemix.net/deploy?repository=https://github.com/eciggaar/botmaster-watsonconversation.git" # [required]><img src="https://bluemix.net/deploy/button.png" alt="Deploy to Bluemix"></a></div>
+<a href="https://bluemix.net/deploy?repository=https://github.com/JohannisK/ChatBot.git" # [required]><img src="https://bluemix.net/deploy/button.png" alt="Deploy to Bluemix"></a></div>
 
 2. Log into Bluemix
 3. Give you application a unique name (this will be the URL for the base of your webhook e.g wwww.helloworld.mybluemix.net/webhook)
